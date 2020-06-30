@@ -9,6 +9,7 @@
 
 ### Stock Marlin ABL
 
+```gcode
 G90 ; Use absolute positioning
 M83  ; extruder relative mode
 
@@ -25,9 +26,11 @@ M109 S[first_layer_temperature] ; wait for extruder temp
 G92 E0.0
 G1 X100.0 E30  F1000.0 ; intro line
 G92 E0.0
+```
 
 ### Stock Marlin UBL
 
+```gcode
 G90 ; Use absolute positioning
 M83  ; extruder relative mode
 
@@ -45,9 +48,11 @@ M109 S[first_layer_temperature] ; wait for extruder temp
 G92 E0.0
 G1 X100.0 E30  F1000.0 ; intro line
 G92 E0.0
+```
 
 ### Stock Prusa Firmware
 
+```gcode
 G90 ; absolute positioning 
 M83  ; extruder relative mode
 M140 S[first_layer_bed_temperature] ; set bed temp
@@ -67,7 +72,7 @@ G1 Z0.2 E8 ; Purge Bubble
 G1 X60.0 E9.0  F1000.0 ; intro line
 G1 X100.0 E12.5  F1000.0 ; intro line
 G92 E0.0
-
+```
 
 
 
