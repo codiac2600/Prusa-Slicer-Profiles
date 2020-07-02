@@ -5,6 +5,10 @@
 * [SKR Bear Firmware](https://github.com/codiac2600/SKR-Bear-Marlin)
 * [Prusa Firmware](https://github.com/prusa3d/Prusa-Firmware)
 
+### How-To
+
+* [Profile Import Video](https://youtu.be/_7Lo5xwQtCw)
+
 ## Start Gcode 
 
 ### Stock Marlin ABL
