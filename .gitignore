@@ -1,0 +1,6 @@
+#
+# OS
+#
+applet/
+*.DS_Store
+desktop.ini
