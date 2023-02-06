@@ -1,1 +1,0 @@
-SKRBear running Marlin profiles for Prusa Slicer v2.6.0 Alpha 3 tested.
